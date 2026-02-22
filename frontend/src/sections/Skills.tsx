@@ -1,4 +1,4 @@
-import Section from '../components/Section';
+import Section from '../components/section';
 import { SectionTitle }  from "../components/SectionTitle";
 import { SKILLS } from "../data/portfolioData";
 import {
