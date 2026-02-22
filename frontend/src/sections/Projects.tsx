@@ -1,6 +1,6 @@
-import Section from "../components/section"
-import { SectionTitle } from "../components/SectionTitle"
-import { PROJECTS } from "../data/portfolioData"
+import Section from "/src/components/section"
+import { SectionTitle } from "/src/components/SectionTitle"
+import { PROJECTS } from "/src/data/portfolioData"
 import { motion } from 'framer-motion';
 import { Github, ExternalLink } from 'lucide-react';
 

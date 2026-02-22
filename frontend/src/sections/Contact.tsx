@@ -1,4 +1,4 @@
-import Section from "../components/section"
+import Section from "/src/components/section"
 import {
     Mail,
     Github,
@@ -8,7 +8,7 @@ import {
     MapPin,
 } from 'lucide-react';
 
-import Button from "../components/Button";
+import Button from "/src/components/Button";
 
 const Contact = () =>{
     return (
