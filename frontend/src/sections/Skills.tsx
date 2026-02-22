@@ -1,6 +1,6 @@
-import Section from '/src/components/section';
-import { SectionTitle }  from "/src/components/SectionTitle";
-import { SKILLS } from "/src/data/portfolioData";
+import Section from '../components/Section';
+import { SectionTitle }  from "../components/SectionTitle";
+import { SKILLS } from "../data/portfolioData";
 import {
   motion,
 } from 'framer-motion';

@@ -1,5 +1,5 @@
-import { HERO_BG } from "/src/data/portfolioData"
-import Button from "/src/components/Button"
+import { HERO_BG } from "../data/portfolioData"
+import Button from "../components/Button"
 import { motion } from "framer-motion";
 
 import {

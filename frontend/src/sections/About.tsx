@@ -1,6 +1,6 @@
 import { motion } from "framer-motion"
-import Section from "/src/components/section.tsx"
-import { SectionTitle } from "/src/components/SectionTitle"
+import Section from "../components/Section.tsx"
+import { SectionTitle } from "../components/SectionTitle"
 
 export default function About() {
   return (
